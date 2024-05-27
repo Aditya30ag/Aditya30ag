@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aditya Agrawal</h1>
 <h3 align="center">A passionate frontend developer from India.</h3>
 
-- 🔭 I’m currently working on **Frontend developer based projects**
+- 🔭 I’m currently working on **Frontend based projects**
 
 - 🌱 I’m currently learning **Javascript and backend.**
 
