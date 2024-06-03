@@ -9,7 +9,8 @@
 <hr>
 <h3 align="left">Recent Projects:</h3>
 -><a href="https://currency-converter-hole-country.netlify.app/">Currency Converter</a><br>
--><a href="https://currency-converter-hole-country.netlify.app/">TIC-TAC-TOE GAME</a>
+-><a href="https://ephemeral-sable-db7856.netlify.app">TIC-TAC-TOE GAME</a><br>
+-><a href="https://rock-paper-scissora-all.netlify.app">ROCK PAPER SCISSORS GAME</a>
 <hr>
 <h3 align="left">Languages and Tools:</h3>
 <br>
