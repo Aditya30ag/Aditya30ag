@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Aditya Agrawal</h1>
-<h3 align="center">A passionate frontend developer from India.</h3>
+<h3 align="center">A passionate MERN-STACK developer from India.</h3>
 
-- 🔭 I’m currently working on **Frontend based projects**
+- 🔭 I’m currently working on **Projects**
 
-- 🌱 I’m currently learning **Javascript and backend.**
+- 🌱 I’m currently learning **Data structures and algorithms **
 
 - 🤝 I’m looking for help with **Backend Development**
 <hr>
-<h3 align="left">Recent Projects:</h3>
+<h3 align="left">Recent Projects:</h3><br>
 -><a href="https://github.com/Aditya30ag/Lab-project.git">File compressor</a>
 -><a href="https://currency-converter-hole-country.netlify.app/">Currency Converter</a><br>
 -><a href="https://ephemeral-sable-db7856.netlify.app">TIC-TAC-TOE GAME</a><br>
