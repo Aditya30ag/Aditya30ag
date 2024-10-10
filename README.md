@@ -7,8 +7,8 @@
 
 - 🤝 I’m looking for help with **Backend Development**
 <hr>
-<h3 align="left">Recent Projects:</h3><br>
--><a href="https://github.com/Aditya30ag/Lab-project.git">File compressor</a>
+<h3 align="left">Recent Projects:</h3>
+-><a href="https://github.com/Aditya30ag/Lab-project.git">File compressor</a><br>
 -><a href="https://currency-converter-hole-country.netlify.app/">Currency Converter</a><br>
 -><a href="https://ephemeral-sable-db7856.netlify.app">TIC-TAC-TOE GAME</a><br>
 -><a href="https://rock-paper-scissora-all.netlify.app">ROCK PAPER SCISSORS GAME</a><br>
