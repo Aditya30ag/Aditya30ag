@@ -5,16 +5,9 @@
 
 - 🌱 I’m currently learning **Data structures and algorithms **
 
-- 🤝 I’m looking for help with **Backend Development**
+- 🤝 I’m looking for help with **MQTT**
 <hr>
 <h3 align="center"><a href="https://portfolio-omega-sage-35.vercel.app/">Portfolio</a</h3>
-<hr>
-<h3 align="left">Recent Projects:</h3><br>
--><a href="https://github.com/Aditya30ag/Lab-project.git">File compressor </a><br>
--><a href="https://currency-converter-hole-country.netlify.app/">Currency Converter</a><br>
--><a href="https://ephemeral-sable-db7856.netlify.app">TIC-TAC-TOE GAME</a><br>
--><a href="https://rock-paper-scissora-all.netlify.app">ROCK PAPER SCISSORS GAME</a><br>
--><a href="https://comfy-meerkat-d7425c.netlify.app">Spotify clone</a>
 <hr>
 <img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" height="200px" align="right"/>
 
