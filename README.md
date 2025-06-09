@@ -1,11 +1,15 @@
 <h1 align="center">Hi 👋, I'm Aditya Agrawal</h1>
-<h3 align="center">A passionate MERN-STACK developer from India.</h3>
+<h3 align="center">🎯 A passionate **MERN Stack Developer** from 🇮🇳 India</h3>
+## 🚀 About Me
 
-- 🔭 I’m currently working on **Projects**
+- 🔭 I’m currently working on **multiple full-stack projects**
+- 🌱 I’m currently learning **Data Structures and Algorithms**
+- 🤝 I’m looking for help with **MQTT** (Message Queuing Telemetry Transport)
+- 💬 Ask me about **JavaScript, React, Node.js, MongoDB**
+- 📫 How to reach me: [adityaagrwal3005ag@example.com](mailto:adityaagrwal3005ag@example.com) *(Update with your real email)*
+- ⚡ Fun fact: I love building things from scratch and learning new tech!
 
-- 🌱 I’m currently learning **Data structures and algorithms **
-
-- 🤝 I’m looking for help with **MQTT**
+---
 <hr>
 <h3 align="center"><a href="https://portfolio-omega-sage-35.vercel.app/">Portfolio</a</h3>
 <hr>
@@ -34,5 +38,6 @@
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-%231572B6?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring-Boot](https://img.shields.io/badge/SpringBoot-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 <br/>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aditya30ag&show_icons=true&locale=en&layout=compact" alt="aditya30ag" /></p>
