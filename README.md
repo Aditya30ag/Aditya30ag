@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning **Data Structures and Algorithms**
 - 🤝 I’m looking for help with **MQTT** (Message Queuing Telemetry Transport)
 - 💬 Ask me about **JavaScript, React, Node.js, MongoDB**
-- 📫 How to reach me: [adityaagrwal3005ag@example.com](mailto:adityaagrwal3005ag@example.com) *(Update with your real email)*
+- 📫 How to reach me: [adityaagrwal3005@gmail.com](mailto:adityaagrwal3005@gmail.com) 
 - ⚡ Fun fact: I love building things from scratch and learning new tech!
 
 ---
