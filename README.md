@@ -10,9 +10,10 @@
 - ⚡ Fun fact: I love building things from scratch and learning new tech!
 
 ---
-<hr>
-<h3 align="center"><a href="https://portfolio-omega-sage-35.vercel.app/">Portfolio</a</h3>
-<hr>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Aditya30ag&show_icons=true&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aditya30ag&theme=tokyonight" height="170"/>
+</p>
 <img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" height="200px" align="right"/>
 
 ### 🛠 &nbsp;Languages and Tools
@@ -41,3 +42,5 @@
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 <br/>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aditya30ag&show_icons=true&locale=en&layout=compact" alt="aditya30ag" /></p>
+
+<hr>
