@@ -44,5 +44,7 @@
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 <br/>
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Aditya30ag&theme=darkhub&no-frame=true&no-bg=false&margin-w=4)
 
 <hr>
