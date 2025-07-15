@@ -2,12 +2,14 @@
 <h3 align="center">🎯 A passionate **MERN Stack Developer** from 🇮🇳 India</h3>
 ## 🚀 About Me
 
-- 🔭 I’m currently working on **multiple full-stack projects**
-- 🌱 I’m currently learning **Data Structures and Algorithms**
-- 🤝 I’m looking for help with **MQTT** (Message Queuing Telemetry Transport)
-- 💬 Ask me about **JavaScript, React, Node.js, MongoDB**
-- 📫 How to reach me: [adityaagrwal3005@gmail.com](mailto:adityaagrwal3005@gmail.com) 
-- ⚡ Fun fact: I love building things from scratch and learning new tech!
+- 🧑‍💻 I’m an active **open-source contributor**, passionate about collaborating on impactful full-stack and DevOps projects.  
+- 💡 Currently exploring advanced **Data Structures and Algorithms** to sharpen my problem-solving skills.  
+- 🐧 Strong with **Linux (WSL/Ubuntu)** and proficient in using **Docker** for containerized application development and deployment.  
+- 🔗 Experienced with **JavaScript, React, Node.js, MongoDB**, and confident with **command-line tools** and automation workflows.  
+- 🌐 Always curious about **cloud-native development** and message protocols like **MQTT**.  
+- 📬 Reach me at: [adityaagrwal3005@gmail.com](mailto:adityaagrwal3005@gmail.com)  
+- ⚡ Fun fact: I enjoy building scalable solutions from the ground up and learning new technologies that challenge my comfort zone.
+
 
 ---
 <div align="center" style="display: flex; justify-content: center; gap: 10px;">
