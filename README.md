@@ -61,4 +61,4 @@
 | [![Github Repo](https://img.shields.io/badge/AossieOrg-DevrAI-lightblue?style=flat&logo=react)](https://github.com/AOSSIE-Org/Devr.AI) | ![GitHub Repo stars](https://img.shields.io/github/stars/AOSSIE-Org/Devr.AI?style=flat) | ![GitHub forks](https://img.shields.io/github/forks/AOSSIE-Org/Devr.AI?style=flat) | [Issues](https://github.com/AOSSIE-Org/Devr.AI/issues) \| [Pull Requests](https://github.com/AOSSIE-Org/Devr.AI/pulls)
 | [![Github Repo](https://img.shields.io/badge/GoogleChromeLabs-web--audio--samples-lightblue?style=flat&logo=react)](https://github.com/GoogleChromeLabs/web-audio-samples) | ![GitHub Repo stars](https://img.shields.io/github/stars/GoogleChromeLabs/web-audio-samples?style=flat) | ![GitHub forks](https://img.shields.io/github/forks/GoogleChromeLabs/web-audio-samples?style=flat) | [Issues](https://github.com/GoogleChromeLabs/web-audio-samples/issues) \| [Pull Requests](https://github.com/GoogleChromeLabs/web-audio-samples/pulls)
 
-<hr>
+[![An image of @aditya30ag's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aditya30ag)](https://holopin.me/aditya30ag)
